@@ -1,7 +1,8 @@
 # Hubert Kowalski
 
 ## Doświadczenie
-**Jak nauczyć sie programowania**
+**Jak nauczyć sie programowania**\
 od 2019
-**Astek Polska**
+
+**Astek Polska**\
 od 2019
